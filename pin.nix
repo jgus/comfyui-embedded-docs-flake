@@ -1,4 +1,4 @@
 {
-  version = "0.5.2";
-  hash = "sha256-qRuENpvZ3IzUeYjrM8KUVAHR4nQ19sl88nl+2/jCQgM=";
+  version = "0.5.3";
+  hash = "sha256-Sf7LVwOL2+Pfs8D3e0tpW1+xMes24IjKPquQ2eGD/b8=";
 }
